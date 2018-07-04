@@ -1,0 +1,22 @@
+{
+  "name": "hello_total",
+  "version": "1.0.0",
+  "description": "A basic demo",
+  "main": "\"./release.js\"",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/totaljs/emptyproject.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/totaljs/emptyproject/issues"
+  },
+  "homepage": "https://github.com/totaljs/emptyproject#readme",
+  "dependencies": {
+    "total.js": "^2.9.4"
+  }
+}
